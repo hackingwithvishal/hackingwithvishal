@@ -1,4 +1,4 @@
-# :wave: Hello <b>developers</b>, I am <b>Ayush Verma</b>
+# :wave: Hello <b>developers</b>, I am <b>Vishal Rawat</b>
 
 An Open-Source Contributor.
 Experienced in Python and Django, currently exploring Data Science and Machine Learning (making Overfitting Regression models is my hobby)
@@ -23,7 +23,7 @@ Experienced in Python and Django, currently exploring Data Science and Machine L
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=vermaayush680&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vermaayush680&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hackingwithvishal&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermaayush680&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
