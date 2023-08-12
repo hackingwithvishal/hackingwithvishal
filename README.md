@@ -6,7 +6,7 @@ Experienced in Python and Django, currently exploring Data Science and Machine L
 # 💫About Me :
 - :seedling: I am currently learning Data Science, Machine Learning.
 - :earth_africa:		 I like to contribute to open source and explore github.
-- :handshake: If you want any collaboration feel free to mail me at vermaayush680@gmail.com.
+- :handshake: If you want any collaboration feel free to mail me at vishalrawatlko@outlook.com.
 - :v: I'm open to opportunities.
 - :zap: Other than creating O(n^2) algorithms, I read books.
 
@@ -14,7 +14,7 @@ Experienced in Python and Django, currently exploring Data Science and Machine L
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thereadermonk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vermaayush680) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/vermaayush680/) [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/vermaayush) [![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vermaayush680) [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@vermaayush680)
 ## Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vermaayush680&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hackingwithvishal&theme=dracula&hide_border=true)
 
 
 # 💻Tech Stack
@@ -22,9 +22,9 @@ Experienced in Python and Django, currently exploring Data Science and Machine L
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=vermaayush680&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=hackingwithvishal&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hackingwithvishal&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vermaayush680&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hackingwithvishal&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 ### ✍️Random Dev Quote
@@ -34,6 +34,6 @@ Experienced in Python and Django, currently exploring Data Science and Machine L
 
 <!---
 
-vermaayush680/vermaayush680 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hackingwithvishal/hackingwithvishal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
